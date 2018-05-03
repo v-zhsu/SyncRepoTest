@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "FakeSourcePath",
+      "redirect_url": "FakeRedirectUrl",
+      "redirect_document_id": true
+    }
+  ]
+}
